@@ -1,0 +1,10 @@
+{
+  "name": "claude-dev-skills",
+  "description": "Six professional development skills covering the full build chain: backend/API design, application security, database design, testing strategy, web game development, and ship & deploy. Built by m.eylon studio to complement design/frontend/RTL skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "m.eylon studio",
+    "email": "meylon@gmail.com"
+  },
+  "keywords": ["backend", "security", "database", "testing", "games", "deployment", "hebrew"]
+}

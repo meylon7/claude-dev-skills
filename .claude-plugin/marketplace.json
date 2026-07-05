@@ -1,0 +1,14 @@
+{
+  "name": "meylon-studio",
+  "owner": {
+    "name": "m.eylon studio",
+    "email": "meylon@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-dev-skills",
+      "source": "./",
+      "description": "Six professional development skills: backend/API, security, database, testing, web games, ship & deploy."
+    }
+  ]
+}
