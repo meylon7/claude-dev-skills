@@ -27,9 +27,10 @@
 
 **Claude Code — כ-plugin (מומלץ):** הריפו הזה הוא plugin תקני (`.claude-plugin/plugin.json` + הסקילים תחת `skills/`). בסשן אינטראקטיבי:
 ```
-/plugin marketplace add <path-to-this-folder>
+/plugin marketplace add meylon7/claude-dev-skills
 /plugin install claude-dev-skills@meylon-studio
 ```
+(או מנתיב מקומי: `/plugin marketplace add <path-to-this-folder>`)
 
 **Claude Code — העתקה ידנית:**
 ```bash
