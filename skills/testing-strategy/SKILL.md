@@ -1,6 +1,7 @@
 ---
 name: testing-strategy
-description: Decide what to test, write high-value tests (Vitest/Jest, Playwright, pytest), and run a verification loop so features are proven working — not assumed working. Use this skill WHENEVER implementing any non-trivial feature or bugfix, when the user asks "בדיקות", "טסטים", "tests", "לבדוק שזה עובד", "QA", "it's broken again", or when a bug the user already fixed reappears. Also apply proactively: after building any backend endpoint, payment/auth flow, or data transformation, tests are part of "done" — don't wait to be asked.
+description: >-
+  Decide what to test, write high-value tests (Vitest/Jest, Playwright, pytest), and run a verification loop so features are proven working — not assumed working. Use this skill WHENEVER implementing any non-trivial feature or bugfix, when the user asks "בדיקות", "טסטים", "tests", "לבדוק שזה עובד", "QA", "it's broken again", or when a bug the user already fixed reappears. Also apply proactively: after building any backend endpoint, payment/auth flow, or data transformation, tests are part of "done" — don't wait to be asked.
 ---
 
 # Testing Strategy

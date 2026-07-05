@@ -1,6 +1,7 @@
 ---
 name: backend-api-design
-description: Design and implement production-grade backends and APIs — routes, service layers, validation, error handling, auth, pagination, and background jobs. Use this skill WHENEVER the user builds or modifies any server-side code: API endpoints, REST/RPC routes, Next.js API routes or server actions, Express/Fastify/NestJS services, Supabase edge functions, webhooks, or CRUD for any app. Trigger on phrases like "בקאנד", "צד שרת", "API", "endpoint", "ראוט", "שרת", "backend", "server", "database logic", or any feature that persists or fetches data — even if the user only says "add a feature that saves X".
+description: >-
+  Design and implement production-grade backends and APIs — routes, service layers, validation, error handling, auth, pagination, and background jobs. Use this skill WHENEVER the user builds or modifies any server-side code: API endpoints, REST/RPC routes, Next.js API routes or server actions, Express/Fastify/NestJS services, Supabase edge functions, webhooks, or CRUD for any app. Trigger on phrases like "בקאנד", "צד שרת", "API", "endpoint", "ראוט", "שרת", "backend", "server", "database logic", or any feature that persists or fetches data — even if the user only says "add a feature that saves X".
 ---
 
 # Backend & API Design
